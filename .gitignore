@@ -1,0 +1,7 @@
+.env
+*.exe
+*.test
+bin/
+vendor/
+*.pb.go
+*.pb.gw.go
